@@ -3,7 +3,7 @@
  * Plugin Name: Eventbrite Events List
  * Description: Display Eventbrite events using a shortcode. Supports organizer-based and collection-based lists. Example: [eventbrite_events limit="5"]
  * Version: 1.2.0
- * Author: Your Name
+ * Author: xiaomensao
  */
 
 if (!defined('ABSPATH')) exit;
